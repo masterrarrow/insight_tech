@@ -15,7 +15,7 @@ Available spiders:
 ### Setup process
 
 1. Install `python 3.7+` and if you want to create a virtual environment - `pipenv --python 3.7`
-2. Install [MongoDB]("https://www.mongodb.com/") to store data
+2. Install [MongoDB](https://www.mongodb.com/ "MongoDB") to store the data
 3. Run: `pip install` to get needed dependencies
 4. Create `.env` file in the insight directory (next to the file `scrapy.cfg`) with the next data:
 
