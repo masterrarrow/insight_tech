@@ -1,6 +1,6 @@
 ## Tech journal spiders
 
-Scraping articles about new technologies from The Verge (Tech) and Insight.com.
+Scraping articles about new technologies from [The Verge](https://www.theverge.com/tech "www.theverge.com") (Tech) and [Insight.com](https://www.insight.com/ "www.insight.com").
 
 All data will be stored inside MongoDB.
 
